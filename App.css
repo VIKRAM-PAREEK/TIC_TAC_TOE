@@ -5,3 +5,11 @@ h1{
 text-align: center;
 color: cyan;
 }
+h3{
+  text-align: center;
+  color: white;
+}
+button{
+  width: 60px;
+  height: 60px;
+}
